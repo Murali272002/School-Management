@@ -1,6 +1,6 @@
-package com.essilor.test.Testing.repository;
+package com.murali.test.Testing.repository;
 
-import com.essilor.test.Testing.dto.Teacher;
+import com.murali.test.Testing.dto.Teacher;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

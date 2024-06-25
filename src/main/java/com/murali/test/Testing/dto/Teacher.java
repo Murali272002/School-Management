@@ -1,4 +1,4 @@
-package com.essilor.test.Testing.dto;
+package com.murali.test.Testing.dto;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

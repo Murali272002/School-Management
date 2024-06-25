@@ -1,7 +1,7 @@
-package com.essilor.test.Testing.controller;
+package com.murali.test.Testing.controller;
 
-import com.essilor.test.Testing.dto.Teacher;
-import com.essilor.test.Testing.service.TeacherService;
+import com.murali.test.Testing.dto.Teacher;
+import com.murali.test.Testing.service.TeacherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
